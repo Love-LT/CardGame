@@ -10,12 +10,12 @@ package card;
  * for the match to the user's card. To be used as starting code in ICE 1
  * @author srinivsi
  */
-import java.util.Scanner;
+// import java.util.Scanner;
 public class CardTrick {
     
     public static void main(String[] args)
     {
-        try(Scanner scanner = new Scanner(System.in)){
+      //  try(Scanner scanner = new Scanner(System.in)){
         Card[] magicHand = new Card[7];
         
         for (int i=0; i<magicHand.length; i++)
