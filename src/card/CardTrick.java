@@ -72,4 +72,3 @@ boolean isTheLuckyCardFound = false;
             }
         }
     }
-}
